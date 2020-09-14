@@ -132,7 +132,7 @@ body{
 .btn{
 	width: 800px;
 	height: 100px;
-	padding-top: 50px;
+	padding-top: 20px;
 	margin-left: 750px;
 	float: inherit;
 	padding-left: 40px;
@@ -177,7 +177,7 @@ label.star:before {
 	margin-right: 30px;
 	border-radius: 10px;
 	background: #00FBB2;
-	border-color: #90FEA7
+	border-color: #90FEA7;
 }
 .btn-2{
 	width: 100px;
@@ -277,7 +277,7 @@ label.star:before {
 	float: left;
 	padding-top: 110px;
 	width: 500px;
-	height: 708px;
+	height: 750px;
 }
 .introduce-movie{
 	padding-top: 110px;
@@ -299,17 +299,21 @@ label.star:before {
 	text-decoration: none;
 	margin: auto;
 }
-.section-3 img{
-	width: 20%;
-	height:25%;
-	float: left;
-}
 .character{
 	width:1920px;
-	height: 1000px
-}
+	height: 360px;
+	float: inherit;
+	margin: auto;
 
+}
+.c-1 img{
+	width: 30%;
+	height: 80%;
+	float: left;
+}
 .c-1 {
+	width: 960px;
+	height: 260px;
 	padding-top: 150px;
 	padding-left: 40px;
 	float: left;
@@ -318,10 +322,9 @@ label.star:before {
 	width: 322px;
 	height:260px;
 	background: #009776;
-	float: inherit;
+	float: left;
 	padding-left: 100px;
-	margin-left: 120px;
-	
+	margin-left: 100px;
 	overflow-x:hidden;
     overflow-y: overlay;
 }
@@ -332,3 +335,30 @@ label.star:before {
 .information{
 	margin-left: 30px;
 }
+.c-2{
+	width: 800px;
+	height: 260px;
+	float: right;
+	padding-top: 150px;
+}
+.c-2 img{
+	width: 30%;
+	height: 95%;
+}
+.box-2{
+	width: 322px;
+	height:260px;
+	background: #009776;
+	float: right;
+	padding-right: 100px;
+	margin-right: 100px;
+	overflow-x:hidden;
+	overflow-y: overlay;}
+.information-2{
+	margin-left: 50px;
+}
+.name-2{
+	font-size: 24px;
+	padding-left: 170px;	
+}
+
