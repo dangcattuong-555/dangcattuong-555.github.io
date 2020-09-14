@@ -6,9 +6,7 @@ body{
 }
 .wrapper{
 	width: 1920px;
-	height: 2000px;
-	background: black;
-	
+	height: 100px;
 }
 .container{
 	width: 1920px;
